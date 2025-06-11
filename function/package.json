@@ -1,0 +1,10 @@
+{
+  "name": "udoni-bot-func",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@azure/functions": "^3.0.0",
+    "@azure/search-documents": "^11.4.0",
+    "@azure/openai": "^1.0.0"
+  }
+}
